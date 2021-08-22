@@ -16,8 +16,6 @@ void draw()
   
 rect(xPos, 200, 40, 40);
   xPos=xPos+xDir;
-  if (xPos>width-20 || xPos<20)
-  {
-   
-  }
+  if (xPos>width-20 || xPos<20);
+  
 }
